@@ -2,4 +2,4 @@
 
 てすとしなりお
 
-``` echo test ```
+``` echo test ```{{execute}}
