@@ -1,0 +1,11 @@
+{
+  "title": "テストコース",
+  "description": "てすとこーす",
+  "courses": [
+    {
+      "course_id": "TestScenario",
+      "title": "テストシナリオ",
+      "description": "てすとしなりお"
+    }
+  ]
+}
