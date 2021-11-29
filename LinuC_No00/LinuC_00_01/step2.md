@@ -9,7 +9,7 @@ linucuser1にログインします。
 
 テキストファイルを一つ作成します。
 
-`echo "I am linucuser1" > linucuser1.txt{{execute}}
+`echo "I am linucuser1" > linucuser1.txt`{{execute}}
 
 ファイルができたか確認します。
 
