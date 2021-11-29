@@ -10,7 +10,7 @@ linucuser1.txtがあるか見てみます。
 
 ファイルの内容を見てみます。
 
-`cat linucuser1.txt`
+`cat linucuser1.txt`{{execute}}
 
 `Permission denied`となって見れなくなりました。
 
