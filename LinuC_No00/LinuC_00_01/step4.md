@@ -15,7 +15,7 @@ linucuser1.txtがあります。
 
 ユーザを変更してみましょう。
 
-`chown linucuser2:linucuse2 linucuser1.txt`{{execute}}
+`chown linucuser2:linucuser2 linucuser1.txt`{{execute}}
 
 
 コマンドが実行できました。
