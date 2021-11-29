@@ -14,6 +14,8 @@
 
 `git commit -m "コメント"`
 
+コメントは日本語でも可
+
 `git status`{{execute}}
 
 # gitのリモートリポジトリにプッシュ
