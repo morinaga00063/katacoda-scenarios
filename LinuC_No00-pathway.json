@@ -1,0 +1,11 @@
+{
+  "title": "LinuC 序章",
+  "description": "LinuC 序章の学習",
+  "courses": [
+    {
+      "course_id": "LinuC_00_01",
+      "title": "LinuC 序章の学習01",
+      "description": "rootユーザと一般ユーザについて学習します。"
+    }
+  ]
+}

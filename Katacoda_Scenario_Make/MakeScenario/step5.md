@@ -4,6 +4,8 @@
 
 `git add .`{{execute}}
 
+`git status`{{execute}}
+
 # gitのconfigにメールアドレス設定
 
 `git config --global user.email "user@mail"`
@@ -12,6 +14,10 @@
 
 `git commit -m "コメント"`
 
+`git status`{{execute}}
+
 # gitのリモートリポジトリにプッシュ
 
 `git push origin main`{{execute}}
+
+`git status`{{execute}}
