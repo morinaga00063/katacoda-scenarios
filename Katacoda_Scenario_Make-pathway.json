@@ -6,6 +6,11 @@
       "course_id": "MakeScenario",
       "title": "Make Katacoda Scenario",
       "description": "HowTO Make Katacoda Scenario"
+    },
+    {
+      "course_id": "test",
+      "title": "test",
+      "description": "test"
     }
   ]
 }
