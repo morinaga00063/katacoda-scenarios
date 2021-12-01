@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "This is automatically run when the scenario"
+echo "Waiting to complete"; while [ ! -f /opt/.backgroundfinished ] ; do sleep 2; done; echo "Done"
