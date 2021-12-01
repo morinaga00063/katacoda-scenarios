@@ -1,6 +1,6 @@
 それではroot権限をもつTerminalでシャットダウンコマンドを実行してみましょう。
 
-`shutdown -h +5 "Please logout immediately"{{execute T1}}
+`shutdown -h +5 "Please logout immediately"`{{execute T1}}
 
 5分後にシャットダウンするコマンドで、警告メッセージを出力しています。
 
