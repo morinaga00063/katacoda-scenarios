@@ -1,2 +1,2 @@
 #!/bin/bash
-`echo "Run in Terminal 3"`{{execute T2}}
+`echo "Run in Terminal 2"`{{execute T2}}
