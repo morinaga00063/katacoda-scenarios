@@ -24,6 +24,12 @@ Terminalに警告メッセージが出力されています。
 
 `shutdown -c`{{execute T1}}
 
+スケジュールがキャンセルされたメッセージが各Teminalに出力されます。
+
+`echo "Terminal 2 display"`{{execute T2}}
+
+`echo "Terminal 3 display"`{{execute T3}}
+
 警告メッセージを確認できたら、いったん画面をクリアします。
 
 Terminal
