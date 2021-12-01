@@ -8,11 +8,11 @@
 
 # gitのconfigにメールアドレス設定
 
-`git config --global user.email "user@mail"`
+`git config --global user.email "`{{copy}}`user@mail"`
 
 # gitのローカルリポジトリにコミット
 
-`git commit -m "コメント"`
+`git commit -m `{{copy}}`"コメント"`
 
 コメントは日本語でも可
 
