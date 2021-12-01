@@ -1,1 +1,1 @@
-`echo "Run in Terminal 3"`{{execute T3}}
+`echo "Run in Terminal 2"`{{execute T2}}
