@@ -1,2 +1,2 @@
 #!/bin/bash
-`echo "Run in Terminal 2"`{{execute T2}}
+PS1="[\u@\h:\W]\\$ "
