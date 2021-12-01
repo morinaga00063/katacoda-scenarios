@@ -1,0 +1,11 @@
+{
+  "title": "LinuC 第１章",
+  "description": "LinuC 第１章の学習",
+  "courses": [
+    {
+      "course_id": "LinuC_01_01",
+      "title": "LinuC第１章の学習01",
+      "description": "shutdownコマンドについて学習します。"
+    }
+  ]
+}
