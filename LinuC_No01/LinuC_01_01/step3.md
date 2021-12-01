@@ -10,13 +10,13 @@ Terminalに警告メッセージが出力されています。
 
 まずは、Terminal 2
 
-`echo "Terminal 2 display`{{execute T2}}
+`echo "Terminal 2 display"`{{execute T2}}
 
 警告メッセージが出力されているのが確認できましたか？
 
 次にTerminal 3
 
-`echo "Terminal 3 display`{{execute T3}}
+`echo "Terminal 3 display"`{{execute T3}}
 
 警告メッセージが出力されているのが確認できましたか？
 
@@ -36,4 +36,4 @@ Terminal 2
 
 Terminal 3
 
-`clear`{{execute T2}}
+`clear`{{execute T3}}
