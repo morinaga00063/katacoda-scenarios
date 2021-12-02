@@ -6,6 +6,11 @@
       "course_id": "LinuC_01_01",
       "title": "LinuC第１章の学習01",
       "description": "shutdownコマンドについて学習します。"
+    },
+    {
+      "course_id": "LinuC_01_02",
+      "title": "LinuC 第１章の学習02",
+      "description": "テキスト1.4.2のプロセスの終了について学習します。"
     }
   ]
 }
