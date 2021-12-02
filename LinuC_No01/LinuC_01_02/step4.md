@@ -6,7 +6,7 @@ Terminal 4を開きます。
 
 Terminal 4 にuser02でログインします。
 
-`su - user02`{{{execute T4}}
+`su - user02`{{execute T4}}
 
 Terminal 2 で`sleep`コマンドを実行します。
 

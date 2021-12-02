@@ -12,7 +12,7 @@
 
 Terminal 2 と3 にuser01でログインします。
 
-`su - user01`{{{execute T2}}
+`su - user01`{{execute T2}}
 
 `su - user01`{{execute T3}}
 
