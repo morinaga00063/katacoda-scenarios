@@ -1,0 +1,11 @@
+{
+  "title": "LinuC 第２章",
+  "description": "LinuC 第２章の学習",
+  "courses": [
+    {
+      "course_id": "LinuC_02_01",
+      "title": "LinuC 第２章の学習01",
+      "description": "テキスト第２章「ファイル・ディレクトリの操作と管理」について学習します。"
+    }
+  ]
+}
