@@ -36,7 +36,7 @@ Windowsでのフォルダを示すのに「￥」で階層構造を区切って�
 
 `pwd`で確認します。
 
-`pws`{{execute}}
+`pwd`{{execute}}
 
 `ls`でどのようなファイル、ディレクトリがあるか確認します。
 
@@ -56,7 +56,7 @@ Windowsでのフォルダを示すのに「￥」で階層構造を区切って�
 
 それでは次に`/home/linucuser`ディレクトリに移動します。
 
-`cd linucuser`{{ececute}}
+`cd linucuser`{{execute}}
 
 
 あれ、`cd /home/linucuser`じゃないの？って思った人いますか？

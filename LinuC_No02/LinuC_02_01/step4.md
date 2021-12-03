@@ -46,7 +46,7 @@
 
 今いるディレクトリ`/home/linucuser/exxdir/02`です。確認します。
 
-`pwd*{{execute}}
+`pwd`{{execute}}
 
 それでは、`/home/linucuser`に移動する方法を３つ考えてみてください。
 
@@ -54,7 +54,7 @@
 
 いろいろ試してディレクトリが移動して、元に戻りたい場合は以下のコマンドを実行してください。
 
-`cd /home/linucuser/exdir/02`{{exedir}}
+`cd /home/linucuser/exdir/02`{{execute}}
 
 コマンドは何回でも実行できます。　　
 
