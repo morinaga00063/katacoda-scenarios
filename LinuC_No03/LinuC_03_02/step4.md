@@ -16,7 +16,7 @@
 
 そのようなときに`find . -name "file*" | xargs tar -cvf test.tar`のコマンドで実行します。やってみましょう。
 
-`find . -name "file*" | xargs tar -cvf test.tar`
+`find . -name "file*" | xargs tar -cvf test.tar`{{execute}}
 
 実行できましたね。
 
