@@ -6,6 +6,11 @@
       "course_id": "LinuC_03_01",
       "title": "LinuC 第３章の学習01",
       "description": "テキスト3.1.3「シェル変数と環境変数」について学習します。"
+    },
+    {
+      "course_id": "LinuC_03_02",
+      "title": "LinuC 第３章の学習02",
+      "description": "テキスト3.2「パイプとリダイレクト」について学習します。"
     }
   ]
 }
