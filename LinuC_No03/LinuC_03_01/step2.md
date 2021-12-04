@@ -2,6 +2,10 @@
 
 `echo "Open Terminal 2"`{{execute T2}}
 
+linucuserにログインします。
+
+`su - linucuser`{{execute}}
+
 `date`コマンドを実行します。
 
 `date`{{execute}}

@@ -39,6 +39,12 @@ UTCは協定世界時と言ってざっくり言ってイギリスの時間で�
 
 `export TZ`{{execute}}
 
+`echo $TZ`で確認するとシェル変数として設定されているのか、環境変数として設定されているのかわかりません。
+
+環境変数を表示させる`printenv`コマンドを使って確認します。
+
+`printenv | grep TZ`{{execute}}
+
 再度`date`コマンドを実行します。
 
 `date`{{execute}}
