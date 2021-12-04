@@ -1,0 +1,11 @@
+{
+  "title": "LinuC 第３章",
+  "description": "LinuC 第３章の学習",
+  "courses": [
+    {
+      "course_id": "LinuC_03_01",
+      "title": "LinuC 第３章の学習01",
+      "description": "テキスト3.1.3「シェル変数と環境変数」について学習します。"
+    }
+  ]
+}
