@@ -11,6 +11,10 @@
       "course_id": "LinuC_03_02",
       "title": "LinuC 第３章の学習02",
       "description": "テキスト3.2「パイプとリダイレクト」について学習します。"
-    }
+    },
+    {
+      "course_id": "LinuC_03_03",
+      "title": "LinuC 第３章の学習03",
+      "description": "テキスト3.4「正規表現を使ったテキスト検索」について学習します。"}
   ]
 }
