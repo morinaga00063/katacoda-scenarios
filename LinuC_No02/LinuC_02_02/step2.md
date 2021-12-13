@@ -22,7 +22,7 @@ srcディレクトリに移動します。
 
 ソースファイルのダミーを作成します。
 
-`echo "source file dummy" > hogehoge.c`{{execute HOST2}}
+`echo "source file dummy" > hogehoge.c`{{execute HOST1}}
 
 次にライブラリを格納するディレクトリを作成します。ちょっとテクニックを使います。
 
@@ -31,6 +31,8 @@ srcディレクトリに移動します。
 親ディレクトリの配下にlibディレクトリを作成します。
 
 libディレクトリに移動。
+
+`cd ../lib`{{execute HOST1}}
 
 `echo "lib dummy" > libhogehoge.so`{{execute HOST1}}
 
@@ -48,4 +50,4 @@ libディレクトリに移動。
 
 作成したファイル、ディレクトリを確認してみます。
 
-`ls -lR`
+`ls -lR`{{execute HOST1}}
