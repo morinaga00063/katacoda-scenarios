@@ -1,6 +1,6 @@
 それでは、アーカイブファイルを解凍展開してみましょう。
 
-`tar xzvf arcfile.tar.gz`{{execute HOST2}}
+`tar -xzvf arcfile.tar.gz`{{execute HOST2}}
 
 展開できましたか？確認してみましょう。
 

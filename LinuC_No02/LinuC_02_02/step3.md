@@ -2,7 +2,7 @@
 
 まず、日本側でdevenv配下をアーカイブして圧縮します。
 
-`tar czvf arcfile.tar.gz devenv`{{execute HOST1}}
+`tar -czvf arcfile.tar.gz devenv`{{execute HOST1}}
 
 アーカイブできましたか？確認してみます。
 
