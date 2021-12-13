@@ -10,7 +10,7 @@ HOST1のホスト名
 
 HOST2のホスト名
 
-`hostname`{{execute HOST1}}
+`hostname`{{execute HOST2}}
 
 違いますね。ここでHOST1を日本の開発サーバ、HOST2をオフショア開発で開発を依頼している海外の協力会社のサーバと考えます。
 
@@ -28,7 +28,7 @@ HOST2のホスト名
 
 ログインパスワードについては第９章で学習しますので、ここではとりあえず実行してください。
 
-`passwd`{{execute HOST2}}
+`passwd linucuser`{{execute HOST2}}
 
 パスワードを入力します。とりあえず`KCC`とします。（本当はこんなパスワードはダメです）
 
